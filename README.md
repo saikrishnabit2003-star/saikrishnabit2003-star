@@ -3,6 +3,12 @@
 💻 **Backend Developer | Full-Stack Enthusiast | Machine Learning Learner**
 
 ---
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Sai+Krishna+👋;Backend+Developer+%7C+Java+%26+Python;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀" 
+    alt="Typing SVG" 
+  />
+</p>
 
 ## 🧑‍💻 About Me
 
