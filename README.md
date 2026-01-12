@@ -63,24 +63,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikrishnabit2003-star&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikrishnabit2003-star&theme=tokyonight)
-
----
-
-## 🧠 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnabit2003-star&layout=compact&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=saikrishnabit2003-star&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
