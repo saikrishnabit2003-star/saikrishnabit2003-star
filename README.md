@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Sai Krishna**
 
-💻 **Backend Developer | Full-Stack Developer | Frontend Developer | Machine Learning**
+💻 **Backend Developer | Full-Stack Developer | Frontend Developer**
 
 ---
 
